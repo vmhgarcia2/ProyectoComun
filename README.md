@@ -1,1 +1,1 @@
-# ProyectoComun para utilizar los test
+# Proyecto comun para utilizar los test
